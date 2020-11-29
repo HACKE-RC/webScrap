@@ -1,7 +1,7 @@
 # webScrap
 #Scrap The World 🥳
 <br>
-<h1>webScrap<h1>
+<h1>webScrap Project<h1>
 <br>
 <p>A Tool To Scrap All The Urls From A Website</p>
 <br>
